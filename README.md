@@ -7,6 +7,7 @@ A compact, custom-designed circular PCB that acts as an interactive environmenta
 * **Dual-Sensor Integration:** Features both a Light Dependent Resistor (LDR) and a condenser microphone for environmental sampling.
 * **Ultra-Compact Form Factor:** Designed as a circular, low-power standalone node driven by a coin-cell battery.
 * **Custom Silkscreen Design:** Incorporates custom vector graphics, branding logos, and regulatory markings directly into the PCB silkscreen layers.
+* **Manufacturing Ready:** Fully generated Gerber and Drill files are provided, ensuring the board is thoroughly checked for Design for Manufacturing (DFM) rules and ready for immediate fabrication.
 
 ## Hardware Architecture & Stack
 * **Core Controller/MCU:** ATtiny85V-10P
