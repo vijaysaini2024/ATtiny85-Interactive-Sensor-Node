@@ -23,14 +23,15 @@ Continuing the practice of industry-standard documentation, the schematic was ri
 ## Visual Documentation
 
 ### 3D PCB Layout (Top & Bottom)
-![3D Render Top](Screenshot_2025-08-10_155829.jpg)
-![3D Render Bottom](Screenshot_2025-08-10_155903.png)
+![3D Render Top](Screenshot%202025-08-10%20155829.jpg)
+![3D Render Bottom](Screenshot%202025-08-10%20155903.png)
 
 ### Final Organized Architecture
-![Organized Schematic](Screenshot_2025-08-08_212624.png)
+![Organized Schematic](Screenshot%202025-08-08%20212624.png)
 
 ### Initial Draft & Routing Progression
-![Initial Schematic](Screenshot_2025-08-08_205908.png)
+![Initial Schematic](Screenshot%202025-08-08%20205908.png)
 
 ## Repository Contents
 * **`/`** - Contains the native `.kicad_sch`, `.kicad_pcb`, and 3D step files for direct examination.
+* **`/Gerbers`** - Contains the complete manufacturing package (`.gbr`, `.gbrjob`, and drill files) ready for PCB fabrication.
